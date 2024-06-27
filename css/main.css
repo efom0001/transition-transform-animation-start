@@ -127,7 +127,7 @@
 
 .animation .b1{
 	animation-name: changeColor;
-	animation-duration: 2s;
+	animation-duration: 1s;
 	animation-delay: 2s;
 	animation-fill-mode: forwards; /* SO THAT THE ANIMATION STAYS ON THE LAST COLOR SET*/
 
@@ -161,6 +161,7 @@
 
 .animation .b2{
 	animation-name: moveAround;
+
 	animation-duration: 4s;
 	animation-iteration-count: 3;
 	animation-direction: normal;
